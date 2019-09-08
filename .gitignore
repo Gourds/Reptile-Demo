@@ -1,3 +1,4 @@
 
 *.pyc
-venv/Lib/site-packages/beautifulsoup4-4.8.0.dist-info/AUTHORS
+.idea
+venv
